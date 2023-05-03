@@ -1,0 +1,53 @@
+{
+    "name": "InuxSwap Tokenlist",
+    "logoURI": "#",
+    "keywords": ["Inux", "LayerInux", "InuxSwap"],
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+    },
+    "timestamp": "2023-05-01T12:00:00+00:00",
+    "tokens": [
+        {
+            "chainId": 9998,
+            "address": "0x00",
+            "decimals": 18,
+            "name": "DAI",
+            "symbol": "DAI",
+            "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png"
+        },
+        {
+            "chainId": 9998,
+            "address": "0x00",
+            "decimals": 6,
+            "name": "USDC",
+            "symbol": "USDC",
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+        },
+        {
+            "chainId": 9998,
+            "address": "0x00",
+            "decimals": 6,
+            "name": "USDT",
+            "symbol": "USDT",
+            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
+        },
+        {
+            "chainId": 9998,
+            "address": "0x00",
+            "decimals": 18,
+            "name": "Wrapped Inux",
+            "symbol": "wINUX",
+            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
+        },
+        {
+            "chainId": 9998,
+            "address": "0x00",
+            "decimals": 18,
+            "name": "Wrapped ETH",
+            "symbol": "wETH",
+            "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295"
+        }
+    ]
+}
